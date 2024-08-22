@@ -1,0 +1,110 @@
+ body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(218, 179, 179);
+}
+.header{
+    display: flex;
+    border: 5px solid black;
+     /* justify-content: space-between;  */
+    justify-content: space-around;
+}
+.red{
+    height: 100px;
+    width: 23%;
+    background-color: red;
+}
+.green{
+    background-color: green;
+
+    height: 400px;
+    width: 13%;
+}
+.blue{
+    background-color: blue;
+    height: 100px;
+    width: 28%;
+}
+.yellow{
+    background-color: yellow;
+    height: 100px;
+    width: 28%;
+}
+
+.bl{
+    background-color: blue;
+    width: 23%;
+    height: 100px;
+}
+.ye{
+    background-color: yellow;
+    height: 100px;
+    width: 15%;
+
+}
+.pn{
+    background-color: rgb(143, 8, 31);
+    height: 100px;
+    width: 40%;
+}
+
+.subhead{
+    display: flex;
+    border: 5px solid forestgreen;
+    justify-content: space-between;
+    width: 100%;
+    padding: 10px;
+}
+.parent{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+}  
+
+
+.pr{
+background-color: purple;
+height: 200px;
+width: 23%;
+}
+.blu{
+background-color: blue;
+ height: 100px;
+ width: 18%;
+}
+.br{
+    background-color: brown;
+    height: 100px;
+    width : 22%;
+    
+
+}
+.bla{
+    background-color: black;
+    width: 18%;
+    height: 200px;
+}
+.gre{
+ background-color: green;
+ width: 22%;
+ height: 100px;
+}
+
+
+.section3{
+    display: flex;
+    border: 5px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 
